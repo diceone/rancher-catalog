@@ -1,0 +1,7 @@
+name: Rancher Loadbalancer
+description: |
+  Rancher Entry Loadbalancer Container
+version: v0.1.0
+category: Loadbalancer
+labels:
+  io.rancher.orchestration.supported: 'cattle'
